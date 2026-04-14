@@ -1,6 +1,6 @@
+<div align="center">
 
-
-# What's On TV — EPG Card <br> Lovelace Card
+# What's On TV — EPG <br> Home Assistant Lovelace Card
 
 <img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/82eeef144435d0eea84c5fd1ebdc7cb73f91689b/whatson_tv_icon.png" alt="What's On TV" width="300">
 
@@ -15,13 +15,16 @@
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Support-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/janfajessen)
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-blue?style=for-the-badge&logo=paypal)](https://paypal.me/janfajessen)-->
 
+</div> 
+
 A Lovelace card that displays your EPG channels in a configurable grid — current programme, progress bar, next programme, and a full schedule modal. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide).
 
 > **Requires:** [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide)
 >
 > **Pair with:** [What's On TV — Search & Notify Card](https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card) for keyword alerts and automatic notifications
-
+<div align="center">
 <img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/c182f8324b4c54bc2a82bcd817de789b43c2208d/whatsontv_epg_card.png" alt="What's On TV EPG Card" width="150">  <img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/c182f8324b4c54bc2a82bcd817de789b43c2208d/whatsontv_epg_card_programme.png" alt="What's On TV EPG Card schedule" width="150">
+</div>
 
 ---
 

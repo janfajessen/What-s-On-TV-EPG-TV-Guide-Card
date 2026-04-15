@@ -8,7 +8,7 @@
 ![HA](https://img.shields.io/badge/Home%20Assistant-2024.1+-orange?style=for-the-badge&logo=home-assistant)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-49-brightgreen?style=for-the-badge)
-[![HACS Custom](https://img.shields.io/badge/HACS-Custom-41bdf5?style=for-the-badge)](https://hacs.xyz/docs/publish/start)
+![HACS](https://img.shields.io/badge/HACS-Compatible-41BDF5?style=for-the-badge&logo=homeassistantcommunitystore&logoColor=white)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow?style=for-the-badge&logo=buymeacoffee)](https://www.buymeacoffee.com/janfajessen)
 [![Patreon](https://img.shields.io/badge/Patreon-Support-red?style=for-the-badge&logo=patreon)](https://www.patreon.com/janfajessen)
 <!--[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-Support-teal?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/janfajessen)

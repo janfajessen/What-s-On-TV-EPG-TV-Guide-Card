@@ -17,9 +17,9 @@
 
 </div> 
 
-A Lovelace card that displays your EPG channels in a configurable grid — current programme, progress bar, next programme, and a full schedule modal. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide).
+A Lovelace card that displays your EPG channels in a configurable grid — current programme, progress bar, next programme, and a full schedule modal. Works alongside the [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant).
 
-> **Requires:** [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide)
+> **Requires:** [What's On TV Integration](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant)
 >
 > **Pair with:** [What's On TV — Search & Notify Card](https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card) for keyword alerts and automatic notifications
 <div align="center">

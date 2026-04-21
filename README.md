@@ -23,7 +23,7 @@ A Lovelace card that displays your EPG channels in a configurable grid — curre
 >
 > **Pair with:** [What's On TV — Search & Notify Card](https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card) for keyword alerts and automatic notifications
 <div align="center">
-<img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/c182f8324b4c54bc2a82bcd817de789b43c2208d/whatsontv_epg_card.png" alt="What's On TV EPG Card" width="150">  <img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/c182f8324b4c54bc2a82bcd817de789b43c2208d/whatsontv_epg_card_programme.png" alt="What's On TV EPG Card schedule" width="150">
+<img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/c182f8324b4c54bc2a82bcd817de789b43c2208d/whatsontv_epg_card.png" alt="What's On TV EPG Card" width="35%">  <img src="https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide/raw/c182f8324b4c54bc2a82bcd817de789b43c2208d/whatsontv_epg_card_programme.png" alt="What's On TV EPG Card schedule" width="35%">
 </div>
 
 ---

@@ -442,7 +442,7 @@ class WhatsonTVEPGCard extends HTMLElement {
     });
     this.shadowRoot.innerHTML = `
       <ha-card>
-        ${this._config.title ? `<div class="card-header" style="display:flex;align-items:center;justify-content:space-between;"><span>${this._config.title}</span><img src="${ICON_B64}" style="height:32px;width:32px;object-fit:contain;opacity:0.85;" draggable="false"></div>` : ""}
+        ${this._config.title ? `<div class="card-header" style="display:flex;align-items:center;justify-content:space-between;"><span>${this._config.title}</span><img src="${ICON_B64}" style="height:32px;width:32px;object-fit:contain;opacity:1.00;" draggable="false"></div>` : ""}
         <div class="card-body" style="--cols:${cols}">
           ${cards.join("") || `<p class="empty">${t.no_sensors}</p>`}
         </div>

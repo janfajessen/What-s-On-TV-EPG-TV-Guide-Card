@@ -118,6 +118,13 @@ The card includes a full visual editor accessible from the Lovelace dashboard ed
 - [What's On TV EPG TV Guide](https://github.com/janfajessen/What-s-On-TV---EPG-TV-Guide---Home-Assistant) integration installed
 ---
 
+## 🤝 Related cards
+
+- [What's On Series & Films Card](https://github.com/janfajessen/What-s-On-Series-Films-card---Home-Assistant) — Full Platforms, Cinema guide.
+- [What's On TV Search & Notify Card](https://github.com/janfajessen/What-s-On-TV-Search-and-Notify-Card) — Search & notifications
+
+---
+
 
 *If this integration is useful to you, consider giving it a ⭐ on GitHub.*
 Or consider supporting development!

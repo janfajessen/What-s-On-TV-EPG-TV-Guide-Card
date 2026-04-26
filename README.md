@@ -47,7 +47,7 @@ A Lovelace card that displays your EPG channels in a configurable grid — curre
 ### Via HACS (recommended)
 
 1. Open HACS → **Frontend** → ⋮ → **Custom repositories**
-2. Add `https://github.com/janfajessen/whatsontv-epg-card` — category **Lovelace**
+2. Add `https://github.com/janfajessen/whatsontv-epg-card` — category **Dashboard**
 3. Search for **What's On TV EPG Card** and install
 4. Refresh your browser
 
